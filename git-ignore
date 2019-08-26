@@ -1,0 +1,6 @@
+touch (cria o arquivo oculto, configura habilitar arquivos ocultos, em opções do explorador; modo de exiição; clicar em mostrar arquivos, pastas e unidades ocultas; desmarcar a opção ocultar as extenções dos tipos de arquivos conhecidos)
+para criar o arquivo: touch.(nome do arquivo)
+vai criar um arquivo no seu diretório
+gitignore
+//dentro do arquivo gitignore, /(nome da pasta); (nome completo do arquivo).(extenção); *.(extenção) //ignora todos os arquivos de uma mesma extenção
+https://git-scm.com (site de ajuda do git)
