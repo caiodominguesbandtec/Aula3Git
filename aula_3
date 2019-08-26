@@ -1,0 +1,11 @@
+da o git clone
+git status
+cria arquivo.txt
+git add
+//toda alteração mais um git add
+//git add serve para tornar o arquivo staged
+//arquivos que não foram adicionados no add, são unstaged
+após todos os adds, git commit
+//dá um package nos novos arquivos
+git push
+//atualiza o diretório remoto do git
